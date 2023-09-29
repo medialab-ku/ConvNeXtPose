@@ -133,7 +133,7 @@ to test the network on the GPU 0,1 with 20th and 21th epoch trained model. `--gp
 
 ## Results
 Here I report the performance of the ConvNeXtPose. 
-* Download pre-trained models of the ConvNeXtPose in [here](https://drive.google.com/drive/folders/1El3qfdtgttO90X25k_680V2UCDv_TPoJ?usp=sharing) 
+* Download pre-trained models of the ConvNeXtPose in [Comming soon]() 
 
 #### Human3.6M dataset using protocol 1
 For the evaluation, you can run `test.py` or there are evaluation codes in `Human36M`.
