@@ -147,6 +147,8 @@ For the evaluation, you can run `test.py` or there are evaluation codes in `Huma
 <img src="assets/H36M_P2.png">
 </p>
 
+## Fitness Application
+We will upload the Application code soon in the future
 ## Acknowledgement
 Part of our code is borrowed from **[PoseNet](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)**. We thank the authors for releasing the codes.
 ## Reference
