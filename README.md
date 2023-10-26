@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo is official **[PyTorch](https://pytorch.org)** implementation of **[ConvNeXtPose: A Fast Accurate Method for 3D Human Pose Estimation and its AR Fitness Application in Mobile Devices(IEEE Access 2023)]()**.
+This repo is official **[PyTorch](https://pytorch.org)** implementation of **[ConvNeXtPose: A Fast Accurate Method for 3D Human Pose Estimation and its AR Fitness Application in Mobile Devices(IEEE Access 2023)](https://ieeexplore.ieee.org/document/10288440/metrics)**.
 
 ## Dependencies
 * [PyTorch](https://pytorch.org)
@@ -155,6 +155,13 @@ Part of our code is borrowed from **[PoseNet](https://github.com/mks0601/3DMPPE_
 **Data:**
 * Compatibility for most of the publicly available 2D and 3D, single and multi-person pose estimation datasets including **[Human3.6M](http://vision.imar.ro/human3.6m/description.php), [MPII](http://human-pose.mpi-inf.mpg.de/), [MS COCO 2017](http://cocodataset.org/#home), [MuCo-3DHP](http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/) and [MuPoTS-3D](http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/)**.
   ```
+  @inproceedings{nguyen2023convnextpose,
+  title={ConvNeXtPose: A Fast Accurate Method for 3D Human Pose Estimation and its AR Fitness Application in Mobile Devices},
+  author={Nguyen, Hong Son and Kim, MyoungGon and Im, Changbin and Han, Sanghoon and Han, JungHyun},
+  journal={IEEE Access},
+  year={2023},
+  publisher={IEEE}
+}
 ```
 
 
